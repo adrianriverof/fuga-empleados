@@ -8,7 +8,7 @@ Descripción del requerimiento
 
 Durante el último año se ha estado produciendo una marcha constante de capital humano. Esto está generando varios problemas para la empresa:
 
-    * Fuga de talento y experiencia
+* Fuga de talento y experiencia
     * Presión sobre RRHH para reemplazar empleados
     * Incremento de los costes asociados al reemplazo
 
