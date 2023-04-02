@@ -23,12 +23,13 @@ Siguiendo unas estimaciones de un estudio del Center for American Progress, la e
 * las pérdidas de empleados que no estaban motivados fueron 368 672.69€
 
 Podemos estimar el ahorro que supondría retener a un porcentaje de estos empleados:
-* 30% - 815701€
-* 20% - 543801€
-* 10% - 271900€
+* 30% - 815 701€
+* 20% - 543 801€
+* 10% - 271 900€
 
- 
+Hemos visto también que, sobre el grupo de mayor riesgo (representantes de ventas), retener un 30% (5 empleados) supondría un ahorro de 37 447.22€
 
+De este modo, podemos estimar un presupuesto para acciones de retención por cada departamento o perfil. 
 
 
 ### Tercera parte: modelo de machine learning
