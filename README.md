@@ -21,7 +21,11 @@ Con el fin de cuantificar el problema, y valorar mejor sobre qué grupo de emple
 Siguiendo unas estimaciones de un estudio del Center for American Progress, la estimación nos dice que:
 * en el último año las pérdidas por aband ono se estiman 2 719 005.91€
 * las pérdidas de empleados que no estaban motivados fueron 368 672.69€
-* 
+
+Podemos estimar el ahorro que supondría retener a un porcentaje de estos empleados:
+* 30% - 815701€
+* 20% - 543801€
+* 10% - 271900€
 
  
 
