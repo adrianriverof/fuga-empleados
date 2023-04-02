@@ -6,16 +6,9 @@ A raíz de los datos de abandono de empleados en la empresa, vamos a realizar un
 
 Comenzamos haciendo una limpieza y primera exploración de los datos. Los datos incluyen características del empleado, si este abandonó o no la empresa y otros datos de satisfacción. 
 
-<p align="center">
-  <img width="600" height="200" src="[https://www.python.org/python-.png](https://user-images.githubusercontent.com/87567925/229365803-aaabc298-6eac-4777-ada5-e0e79bc2b046.png)">
-</p>
+Abandono por puesto:
 
-
-
-
-
-![imagen](https://user-images.githubusercontent.com/87567925/229365803-aaabc298-6eac-4777-ada5-e0e79bc2b046.png "Abandono por puesto")
-<center>Abandono por puesto</center>
+![imagen](https://user-images.githubusercontent.com/87567925/229365803-aaabc298-6eac-4777-ada5-e0e79bc2b046.png)
 
 
 Analizando al grupo de trabajadores que dejaron la empresa, hemos construido un perfil medio. 
@@ -52,9 +45,12 @@ Gracias a esto podemos obtener información útil:
 
 #### Importancia de las variables
 
-![imagen](https://user-images.githubusercontent.com/87567925/229365102-c4fd5410-3789-4d31-b5cc-afcc6c06f990.png "Importancia de las variables")
+
+![imp_var](https://user-images.githubusercontent.com/87567925/229366609-4d92bfb9-4017-4e6c-bb3f-152bf56c0a63.png)
+
 
 #### Riesgo de abandono por puesto
+
 
 ![imagen](https://user-images.githubusercontent.com/87567925/229364988-3d4251ed-65fd-439f-90a8-726d7b3215e3.png "Riesgo de abandono por puesto")
 
