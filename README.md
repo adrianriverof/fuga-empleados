@@ -1,21 +1,29 @@
 # Análisis de fuga de empleados con Machine Learning
 
+A raíz de los datos de abandono de empleados en la empresa, vamos a realizar una serie de análisis para identificar mejor el problema y hallar posibles soluciones.
+
+### Primera parte: identificación del problema
+
+Comenzamos haciendo una limpieza y primera exploración de los datos. Los datos incluyen características del empleado, si este abandonó o no la empresa y otros datos de satisfacción. 
+
+Analizando al grupo de trabajadores que dejaron la empresa, hemos construido un perfil medio. 
+* Bajo nivel educativo
+* Soltero
+* Trabaja en ventas
+* Bajo salario
+* Alta carga de horas extras
+
+Así pues, los actuales empleados que más se acerquen a este perfil son los que estarán en un mayor riesgo de abandono.
 
 
-### ¿es esto markdown?
 
-Descripción del requerimiento
 
-Durante el último año se ha estado produciendo una marcha constante de capital humano. Esto está generando varios problemas para la empresa:
+### Segunda parte: impacto económico
 
-* Fuga de talento y experiencia
-* Presión sobre RRHH para reemplazar empleados
-* Incremento de los costes asociados al reemplazo
 
-En este contexto, el Director de RRHH ha contactado con el equipo de Data Science para ver si analíticamente le podemos ayudar a:
+### Tercera parte: modelo de machine learning
 
-* Perfilar, concretar y cuantificar el problema
-* Identificar patrones o perfiles prioritarios sobre los que actuar
-* Definir una batería de acciones de fidelización tanto a nivel grupo de riesgo como a nivel empleado individual
-* Generar activos analíticos de apoyo que permitan al departamento de RRHH abordar este problema de forma más rápida y eficaz
+
+
+
 
