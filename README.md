@@ -31,8 +31,19 @@ Hemos visto también que, sobre el grupo de mayor riesgo (representantes de vent
 
 De este modo, podemos estimar un presupuesto para acciones de retención por cada departamento o perfil. 
 
-
 ### Tercera parte: modelo de machine learning
+
+Ahora vamos a hacer uso de herramientas de machine learning para construir un modelo que nos ayude a seleccionar de una manera más acertada las variables que más peso tienen en el abandono, y que pueda establecer una medida de cómo de probable es que un empleado de ciertas características vaya a abandonar la empresa, de modo que en un futuro, a partir de los datos recolectados, se pueda prever casos de abandono y actuar de forma preventiva sobre ellos.
+
+Gracias a esto podemos obtener información útil:
+
+#### Importancia de las variables
+
+![imagen](https://user-images.githubusercontent.com/87567925/229365102-c4fd5410-3789-4d31-b5cc-afcc6c06f990.png)
+
+#### Riesgo de abandono por puesto
+
+![imagen](https://user-images.githubusercontent.com/87567925/229364988-3d4251ed-65fd-439f-90a8-726d7b3215e3.png)
 
 
 
